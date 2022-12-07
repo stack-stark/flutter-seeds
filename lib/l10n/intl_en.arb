@@ -1,0 +1,20 @@
+{
+  "kyy": "KYY",
+  "setting": "Setting",
+  "language": "English",
+  "English": "English",
+  "simplified": "Simplified",
+  "traditional": "Traditional",
+  "welcome": "Welcome use KYY",
+  "verificationCodeLogin": "Verification code login",
+  "passLogin": "Password login",
+  "qrcodeLogin": "Scan QR codes login",
+  "phoneInputTips": "Please enter your mobile phone number",
+  "passInputTips": "Please enter your password",
+  "verificationInputTips": "Please enter the verification code",
+  "login": "Login",
+  "autoLogin": "Automatic login",
+  "forgetPass": "Forget the password",
+  "exclusiveAcc": "Exclusive Account",
+  "registering": "Registering an Account"
+}

@@ -1,0 +1,20 @@
+{
+  "kyy": "快優易",
+  "setting": "設置",
+  "language": "繁體中文（中国香港）",
+  "English": "英文",
+  "simplified": "簡體",
+  "traditional": "繁體",
+  "welcome": "歡迎使用快優易",
+  "verificationCodeLogin": "驗證碼登錄",
+  "passLogin": "密碼登錄",
+  "qrcodeLogin": "掃碼登錄",
+  "phoneInputTips": "請輸入手機號",
+  "passInputTips": "請輸入密碼",
+  "verificationInputTips": "請輸入驗證碼",
+  "login": "登錄",
+  "autoLogin": "自動登錄",
+  "forgetPass": "忘記密碼",
+  "exclusiveAcc": "專屬賬號",
+  "registering": "註冊賬號"
+}

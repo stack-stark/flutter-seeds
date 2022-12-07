@@ -1,0 +1,15 @@
+# ninja log v5
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/flutter_windows.dll	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/flutter_export.h	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/flutter_windows.h	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/flutter_messenger.h	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/flutter_plugin_registrar.h	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/flutter_texture_registrar.h	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc	4196c3b804cc59d7
+2	13217	6885562940351555	flutter/_phony_	4196c3b804cc59d7
+2	13217	6885562940351555	D:/flutter project/jungle/windows/out/build/x64-Debug/flutter/_phony_	4196c3b804cc59d7
+13314	13724	6898502708611176	runner/CMakeFiles/jungle.dir/Runner.rc.res	7e6508ed06c91b3a
